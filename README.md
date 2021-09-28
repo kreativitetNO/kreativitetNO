@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kreativitetNO
 - 👀 I’m interested in any kind of development whatsover
-- 🌱 I’m currently learning JavaScript, Git, C++, Perl
 - 💞️ I’m looking to collaborate on Coding Train
 
 <!---
